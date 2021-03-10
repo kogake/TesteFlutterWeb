@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutterando/DataTable/DataTable.dart';
 import 'package:flutterando/app_widget.dart';
 import 'package:flutterando/hompage.dart';
 import 'package:flutterando/login_page.dart';
@@ -18,7 +19,8 @@ class MyApp extends StatelessWidget {
         ),
         routes: {
           '/': (context) => LoginPage(),
-          '/home': (context) => AppWidget()
+          '/home': (context) => AppWidget(),
+          '/estoques': (context) => DataTableDemo(),
         });
   }
 }
