@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>466888120668-g8u4bt7a2nmqtdfq0trb23t8l5u32i4f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.466888120668-g8u4bt7a2nmqtdfq0trb23t8l5u32i4f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAg6AOxk5VLsNK1BkonYsqgnRgIjdKizz8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>466888120668</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.myapp</string>
+	<key>PROJECT_ID</key>
+	<string>caderninho-192311</string>
+	<key>STORAGE_BUCKET</key>
+	<string>caderninho-192311.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:466888120668:ios:e00dbec5486a974068c999</string>
+	<key>DATABASE_URL</key>
+	<string>https://caderninho-192311-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
